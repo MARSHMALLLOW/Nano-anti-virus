@@ -11,12 +11,4 @@ What you do in Dev-cpp?
 2)	Compile “source.cpp” file
 3)	Compile “scan.cpp” file
 4)	Done!
-- if you have any issue about this repository, please tell us.
-And if you have more viruses, please contact us.
-E-mail : anas.batal1@gmail.com
-Please write :
-- Name of virus 
--educational video
--a copy of virus
--date of creation (optional)
 Good luck :) !
